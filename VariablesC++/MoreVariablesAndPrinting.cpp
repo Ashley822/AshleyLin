@@ -14,10 +14,10 @@ int main() {
     myHair = "black";
 
     cout << "Let's talk about " + myName + ". \n";
-    cout << "He's " << myWeight << " kgs. \n";
-    cout << "He's " << myHeight << "cms tall. \n";
-    cout << "He's got " + myEyes + " eyes and " + myHair + " hair. \n";
-    cout << "His teeth are usually " + myTeeth + " depending on the coffee. \n";
+    cout << "She's " << myWeight << " kgs. \n";
+    cout << "She's " << myHeight << "cms tall. \n";
+    cout << "She's got " + myEyes + " eyes and " + myHair + " hair. \n";
+    cout << "Her teeth are usually " + myTeeth + " depending on the coffee. \n";
 
     cout << "If I add " << myAge << ", " << myHeight << ", and " << myWeight << ", I get " << (myAge + myHeight + myWeight) << ". \n";
 }
