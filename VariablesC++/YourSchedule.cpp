@@ -11,10 +11,10 @@ int main() {
     course6 = "US History";
     course7 = "Expository Writing II";
     course8 = "Java Programming";
-    tr1 = "Mr. Fredi";
-    tr2 = "Mr. Kung";
-    tr3 = "Ms. Blanca";
-    tr4 = "Mr. Bose";
+    tr1 = "Mr. Robert";
+    tr2 = "Mr. Toner";
+    tr3 = "Ms. Fredi";
+    tr4 = "Mr. Burke";
     tr5 = "Ms. Debra";
     tr6 = "Ms. Sounia";
     tr7 = "Ms. Debra";
