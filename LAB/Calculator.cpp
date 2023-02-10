@@ -28,7 +28,7 @@ double division(double num1, double num2){
   return(num1/num2);
 }
 double exponent(double num1, double num2) {
-  cout << "answer: " << exponent(num1, num2) << endl;
+  cout << "answer: " << pow(num1, num2) << endl;
   return pow(num1, num2);
 }
 
@@ -79,6 +79,7 @@ int main(){
     }
     if(choice1 == 5){
       choose_the_number();
+      exponent(num1, num2);
       cout << "try again(y/n)";
       cin >> choice2;
     }
@@ -92,6 +93,3 @@ int main(){
 
   
 }
-
-    
-    
